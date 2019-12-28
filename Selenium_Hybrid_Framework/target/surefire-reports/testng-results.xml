@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14003" started-at="2019-12-27T14:29:34Z" finished-at="2019-12-27T14:29:48Z">
+    <groups>
+    </groups>
+    <test name="LoginTestChrome" duration-ms="14003" started-at="2019-12-27T14:29:34Z" finished-at="2019-12-27T14:29:48Z">
+      <class name="com.ebankingexample.TestCases.TC_Test_Login_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ebankingexample.TestCases.TC_Test_Login_001@36f6e879]" name="setup" is-config="true" duration-ms="8811" started-at="2019-12-27T19:59:34Z" finished-at="2019-12-27T19:59:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.ebankingexample.TestCases.TC_Test_Login_001@36f6e879]" name="loginTest" duration-ms="4125" started-at="2019-12-27T19:59:43Z" finished-at="2019-12-27T19:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebankingexample.TestCases.TC_Test_Login_001@36f6e879]" name="teardown" is-config="true" duration-ms="842" started-at="2019-12-27T19:59:47Z" finished-at="2019-12-27T19:59:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ebankingexample.TestCases.TC_Test_Login_001 -->
+    </test> <!-- LoginTestChrome -->
+  </suite> <!-- Suite -->
+</testng-results>
